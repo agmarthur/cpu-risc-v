@@ -1,0 +1,3 @@
+echo ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+echo abcdefghijklmnopqrstuvwxyz
+shutdown

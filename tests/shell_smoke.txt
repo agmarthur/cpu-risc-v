@@ -1,0 +1,11 @@
+help
+whoami
+ver
+echo ola art
+add 40 2
+vec
+ps
+demo
+uptime
+comando-inexistente
+shutdown
